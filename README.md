@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Josmarm4
 - 👀 I’m interested in desenvolvimento de software
-- 🌱 I’m currently learning JavaScript e outras tecnologias de desenvolvimento web.
-- 💞️ I’m looking to collaborate on projetos de código aberto, especialmente em aplicações web
 - 📫 How to reach me josmarmiguel855@gmail.com
-- 😄 Pronouns: ele/dele.
 - ⚡ Fun fact: Eu gosto de jogar games!
 
 <!---
