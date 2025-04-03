@@ -15,7 +15,7 @@ No meu tempo livre, gosto de estudar programação, onde aprendo sobre diversos 
 - 👤 **Nome:** Josmar Miguel Oliveira Iucks   
 - 🎂 **Idade:** 23 anos.   
 - 📍 **Localização:** Telêmaco Borba - Paraná, Brasil.
-- 💻 **Stack:** PHP, Laravel, Javascript, Java. 
+- 💻 **Stack:** PHP, Javascript, Java. 
 - 📚 **Aprendizado Atual:** Java.   
 - 🎓 **Formação:** Formado em Analise e desenvolvimento de sistemas. 
 
